@@ -6,4 +6,4 @@ https://drive.google.com/drive/folders/1eY6CiogXlD80Tr3clifM1XHqeFFyAzEB?usp=dri
 
 ## Video Preview
 
-[https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/Z0XkBC7gKK4?si=SL2JQbfJ-O6qpLfH)
+<video src="preview/rock_generator.mp4" controls width="100%"></video>
