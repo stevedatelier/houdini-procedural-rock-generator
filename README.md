@@ -1,3 +1,4 @@
+<img width="3072" height="1296" alt="detailed_rocks 07" src="https://github.com/user-attachments/assets/91c5ae62-99f9-4691-b3bb-ec0a6033970c" />
 <img width="3072" height="1296" alt="detailed_rocks 08" src="https://github.com/user-attachments/assets/f062ec97-88a2-48ac-9a53-b05c25a9feb7" /># houdini-procedural-rock-generator
 Free procedural rock generator project file for Houdini.
 
