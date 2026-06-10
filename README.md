@@ -1,4 +1,4 @@
-# houdini-procedural-rock-generator
+<img width="3072" height="1296" alt="detailed_rocks 08" src="https://github.com/user-attachments/assets/f062ec97-88a2-48ac-9a53-b05c25a9feb7" /># houdini-procedural-rock-generator
 Free procedural rock generator project file for Houdini.
 
 ## Download the cache files and textures
@@ -26,4 +26,18 @@ Important: This project requires the cache files and textures included in the ex
 **Important:** This project requires the cache files and textures included in the external download package.
 
 [Download Cache Files and Textures](https://drive.google.com/drive/folders/1eY6CiogXlD80Tr3clifM1XHqeFFyAzEB?usp=drive_link)
+
+## Image Preview
+
+<img width="3072" height="1296" alt="detailed_rocks 08" src="https://github.com/user-attachments/assets/2a3de8c5-601c-487e-9cbf-ad9af3aba95f" />
+
+
+<img width="3072" height="1296" alt="preview" src="https://github.com/user-attachments/assets/092d9b40-60b8-4f01-a6e9-7d0f77bbd12d" />
+
+<img width="3072" height="1296" alt="detailed_rocks 05" src="https://github.com/user-attachments/assets/5b86ec0e-94a4-4682-8211-c3ad6a0c1ad4" />
+
+<img width="3072" height="1296" alt="detailed_rocks 04" src="https://github.com/user-attachments/assets/ef43c992-e11e-4b0c-b83e-62e9fe4938f4" />
+<img width="3072" height="1296" alt="detailed_rocks 02 (1)" src="https://github.com/user-attachments/assets/fd3a897f-1940-42d1-8ee8-679fb9b1b326" />
+<img width="3072" height="1296" alt="detailed_rocks 03" src="https://github.com/user-attachments/assets/14b9398c-8ccf-4ece-aeb7-49738c127197" />
+
 
