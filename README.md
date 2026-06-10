@@ -1,7 +1,7 @@
 # houdini-procedural-rock-generator
 Free procedural rock generator project file for Houdini.
 
-## Download
+## Download the cache files and textures
 
 [Google Drive Download](https://drive.google.com/drive/folders/1eY6CiogXlD80Tr3clifM1XHqeFFyAzEB?usp=drive_link)
 
