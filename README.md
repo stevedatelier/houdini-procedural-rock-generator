@@ -6,9 +6,15 @@ https://drive.google.com/drive/folders/1eY6CiogXlD80Tr3clifM1XHqeFFyAzEB?usp=dri
 
 ## Video Preview
 
-<video src="preview/Detailed Rocks 1.25X 3840X1620 Ahq-12.mp4" controls width="100%"></video>
+
 
 [![Watch Demo](preview.jpg)](https://youtu.be/Z0XkBC7gKK4?si=kPrBXz1GqIsX-O4j)
+
+
+
+
+
+https://github.com/user-attachments/assets/5b1b5848-ae2b-485a-be84-4ccd4945b1f4
 
 
 
