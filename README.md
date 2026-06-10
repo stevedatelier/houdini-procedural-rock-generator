@@ -6,4 +6,4 @@ https://drive.google.com/drive/folders/1eY6CiogXlD80Tr3clifM1XHqeFFyAzEB?usp=dri
 
 ## Video Preview
 
-<video src="preview/rock_generator.mp4" controls width="100%"></video>
+<video src="preview/Detailed Rocks 1.25X 3840X1620 Ahq-12.mp4" controls width="100%"></video>
