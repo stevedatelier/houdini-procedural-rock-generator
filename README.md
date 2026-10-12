@@ -1,6 +1,8 @@
 # Houdini Procedural Rock Generator
 
 > A fully procedural rock generation system built in Houdini — designed for creating a wide range of rock formations with fine-grained artistic control, fast variation, and production-ready output.
+>
+> <img width="3072" height="1296" alt="Rock formation overview" src="https://github.com/user-attachments/assets/2a3de8c5-601c-487e-9cbf-ad9af3aba95f" />
 
 ---
 
@@ -57,7 +59,7 @@ Open the `.hip` file. All procedural controls are exposed at the top-level netwo
 
 ## Image Preview
 
-<img width="3072" height="1296" alt="Rock formation overview" src="https://github.com/user-attachments/assets/2a3de8c5-601c-487e-9cbf-ad9af3aba95f" />
+
 
 <img width="3072" height="1296" alt="Surface detail" src="https://github.com/user-attachments/assets/092d9b40-60b8-4f01-a6e9-7d0f77bbd12d" />
 
