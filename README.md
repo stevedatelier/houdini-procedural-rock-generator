@@ -2,7 +2,7 @@
 
 > A fully procedural rock generation system built in Houdini — designed for creating a wide range of rock formations with fine-grained artistic control, fast variation, and production-ready output.
 >
-> <img width="3072" height="1296" alt="Rock formation overview" src="https://github.com/user-attachments/assets/2a3de8c5-601c-487e-9cbf-ad9af3aba95f" />
+ <img width="3072" height="1296" alt="Variation set A" src="https://github.com/user-attachments/assets/5b86ec0e-94a4-4682-8211-c3ad6a0c1ad4" />
 
 ---
 
@@ -59,11 +59,9 @@ Open the `.hip` file. All procedural controls are exposed at the top-level netwo
 
 ## Image Preview
 
-
+<img width="3072" height="1296" alt="Rock formation overview" src="https://github.com/user-attachments/assets/2a3de8c5-601c-487e-9cbf-ad9af3aba95f" />
 
 <img width="3072" height="1296" alt="Surface detail" src="https://github.com/user-attachments/assets/092d9b40-60b8-4f01-a6e9-7d0f77bbd12d" />
-
-<img width="3072" height="1296" alt="Variation set A" src="https://github.com/user-attachments/assets/5b86ec0e-94a4-4682-8211-c3ad6a0c1ad4" />
 
 <img width="3072" height="1296" alt="Variation set B" src="https://github.com/user-attachments/assets/ef43c992-e11e-4b0c-b83e-62e9fe4938f4" />
 
